@@ -1,4 +1,3 @@
-# Els meus apunts de Sistemes Operatius - Joel
 ## Descripció 
 Aquest repositori conté l’essència dels sistemes Operatius de 1r DAW
 
