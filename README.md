@@ -6,6 +6,7 @@ Aquest repositori conté l’essència dels sistemes Operatius de 1r DAW
 - Tema 1: Introducció a Linux 
 - Tema 2: Comandes bàsiques 
 
-## Autor [Joel] 
+## Autor 
+## [Joel] 
 Curs: 1r DAW 
 Data: 25/2/2026
